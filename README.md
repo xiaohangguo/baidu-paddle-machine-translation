@@ -1,1 +1,1 @@
-# baidu-paddle-mechine-translation
+# baidu-paddle-machine-translation
