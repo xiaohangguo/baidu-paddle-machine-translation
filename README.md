@@ -18,3 +18,5 @@ result-- 有两种方法.sh，里面有详细生成代码。
 ## 附件
 附上一些文件包括：checkpoint、团队最后提交result、预处理数据data-bin、数据集dataset
 https://pan.baidu.com/s/1__Fw5Eye5GOh4GKhD-uA_w
+顾威学长分享的baseline代码
+https://www.kaggle.com/code/shuhanglv/ikcest-2022-baseline/edit
